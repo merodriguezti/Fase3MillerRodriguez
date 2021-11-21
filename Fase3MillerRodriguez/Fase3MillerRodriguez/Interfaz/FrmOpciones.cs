@@ -10,16 +10,21 @@ using System.Windows.Forms;
 
 namespace Fase3MillerRodriguez
 {
-    public partial class FrmAcceso : Form
+    public partial class FrmOpciones : Form
     {
-        public FrmAcceso()
+        public FrmOpciones()
         {
             InitializeComponent();
         }
 
-        private void FrmAcceso_Load(object sender, EventArgs e)
+        private void FrmOpciones_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

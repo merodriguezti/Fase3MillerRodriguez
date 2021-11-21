@@ -8,3 +8,4 @@ C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3M
 C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.csproj.CoreCompileInputs.cache
 C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.exe
 C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.pdb
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.FrmOpciones.resources
