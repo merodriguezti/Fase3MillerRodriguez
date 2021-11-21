@@ -1,0 +1,10 @@
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\bin\Debug\Fase3MillerRodriguez.exe.config
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\bin\Debug\Fase3MillerRodriguez.exe
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\bin\Debug\Fase3MillerRodriguez.pdb
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.csproj.AssemblyReference.cache
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.FrmAcceso.resources
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.Properties.Resources.resources
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.csproj.GenerateResource.cache
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.csproj.CoreCompileInputs.cache
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.exe
+C:\Users\JULIAN RODRIGUEZ\Documents\INGENIERIA\ESTRUCTURA DE DATOS\fase 3\Fase3MillerRodriguez\Fase3MillerRodriguez\Fase3MillerRodriguez\obj\Debug\Fase3MillerRodriguez.pdb
